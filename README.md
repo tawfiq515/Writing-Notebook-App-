@@ -1,4 +1,4 @@
-# Dangerous Writing App  
+# Writing Notebook App  
 
 A minimalist writing application that forces you to keep typing or lose your work. Built with Python's Tkinter.  
 
