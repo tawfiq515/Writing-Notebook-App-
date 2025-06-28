@@ -12,13 +12,14 @@ A minimalist writing application that forces you to keep typing or lose your wor
 1. Ensure Python 3.x is installed  
 2. Run the script:  
    ```bash  
-   python dangerous_writing.py  
-Controls
+   python dangerous_writing.py
+   ```
+## Controls
 Just keep typing to stay alive
 
 Use the File menu to save your work
 
-Dependencies
+## Dependencies
 Python 3.x
 
 Tkinter (included in standard library)
